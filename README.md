@@ -1,2 +1,2 @@
 # ISDP_09_WM
-Tesowawa zmiana
+Tesowawa zmiana.gg
