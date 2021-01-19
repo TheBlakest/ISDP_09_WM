@@ -1,2 +1,2 @@
 # ISDP_09_WM
-ggggggggggggggg
+Tesowa zmiana
