@@ -13,8 +13,7 @@
     padding: 10px;
     box-sizing: border-box;
     float: left;
-	background-color: coral;
-    
+    background-image: linear-gradient(black 5%, gray 50%, blue 100%);
 }
 
 .footer{
