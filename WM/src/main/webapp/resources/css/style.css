@@ -13,7 +13,7 @@
     padding: 10px;
     box-sizing: border-box;
     float: left;
-    background-image: linear-gradient(black 5%, gray 50%, blue 100%);
+	background-color: coral;
     
 }
 
